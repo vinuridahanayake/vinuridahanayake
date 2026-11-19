@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Vinuri Dahanayake! 👋
 
-<!--
-**vinuridahanayake/vinuridahanayake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Science Undergraduate | Machine Learning | Data Analytics | Data Engineering
 
-Here are some ideas to get you started:
+I'm a third-year Data Science undergraduate at **Sri Lanka Institute of Information Technology (SLIIT)**, passionate about transforming data into meaningful insights and building intelligent, data-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working across the data science lifecycle — from data extraction, cleaning and exploratory analysis to machine learning, explainable AI and application deployment.
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| [CampusGrid AI](https://github.com/vinuridahanayake/campusgrid-ai) | Multi-agent campus energy management platform featuring Digital Twin simulation and MCP integration. | Python, FastAPI, React, PostgreSQL |
+| [Loan Default Prediction](https://github.com/vinuridahanayake/Loan-Default-Prediction) | Machine learning pipeline for predicting borrower default risk, with SHAP interpretability. | Python, scikit-learn, XGBoost, SHAP |
+| [Banking RAG-QA](https://github.com/vinuridahanayake/banking-rag-qa) | RAG-based question-answering system using Central Bank of Sri Lanka Monetary Policy Reports. | Python, LangChain, ChromaDB, Hugging Face |
+| [Smart Campus](https://github.com/vinuridahanayake/Smart_Campus-Project) | Full-stack campus operations and management platform. | React, Spring Boot, Java, PostgreSQL |
+
+---
+
+### 🛠️ Technical Skills
+
+**Programming Languages**
+- Python | SQL | Java
+
+**Data Science & Machine Learning**
+- pandas | NumPy | scikit-learn | XGBoost
+- SHAP | Matplotlib | Statistical Modelling
+
+**Data Engineering & Business Intelligence**
+- ETL | Dimensional Modelling
+- SQL Server | SSIS | SSAS | Power BI
+
+**Generative AI & NLP**
+- Retrieval-Augmented Generation (RAG)
+- LangChain | ChromaDB | Hugging Face
+
+**Web Development & Deployment**
+- React | Spring Boot | FastAPI
+- Streamlit | Gradio | Docker
+
+**Tools**
+- Git | GitHub | VS Code | Jupyter Notebook | Google Colab
+
+---
+
+### 🎓 Education
+
+**BSc (Hons) in Information Technology – Data Science**  
+Sri Lanka Institute of Information Technology (SLIIT)
+
+---
+
+### 📫 Let's Connect
+
+- **LinkedIn:** [Vinuri Dahanayake](https://www.linkedin.com/in/vinuri-dahanayake-2617a4265/)
+- **Email:** vincidaha@gmail.com
+- **GitHub:** [@vinuridahanayake](https://github.com/vinuridahanayake)
+
+---
+
+*Always learning, building and exploring the world of data! 🚀*
