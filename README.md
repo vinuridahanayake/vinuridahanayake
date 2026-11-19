@@ -1,3 +1,6 @@
+<img width="3584" height="1184" alt="Gemini_Generated_Image_tbjuhwtbjuhwtbju" src="https://github.com/user-attachments/assets/c0e2473f-2ad3-4c2a-8099-dce0a0e40da9" />
+
+
 # Hi, I'm Vinuri Dahanayake! 👋
 
 ### Data Science Undergraduate | Machine Learning | Data Analytics | Data Engineering
